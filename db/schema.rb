@@ -56,7 +56,7 @@ ActiveRecord::Schema.define(version: 20160609162732) do
     t.integer  "course_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.string   "row_order"
+    t.integer  "row_order"
   end
 
   add_index "sections", ["course_id"], name: "index_sections_on_course_id", using: :btree
