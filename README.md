@@ -8,12 +8,21 @@ Dependencies
 ============
 
 Devise: user authentication
+
 Bootstrap-SASS:  Twitter Bootstrap with SASS files
+
 Simple Form: faster form generation
+
 Carrierwave: image/video uploads
+
 Carrierwave-AWS: stor on Amazon S3
+
 Mini-magick: image-resizing on upload
+
 Figaro: secure API keys in ENV variable
+
 Stripe: full-featured payment processing API
+
 Ranked-Model: allows easier sorting of objects in database
+
 jQueryUI: drag and drop functionality for lessons and section re-ordering
