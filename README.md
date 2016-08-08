@@ -15,7 +15,7 @@ Simple Form: faster form generation
 
 Carrierwave: image/video uploads
 
-Carrierwave-AWS: stor on Amazon S3
+Carrierwave-AWS: store uploads on Amazon S3
 
 Mini-magick: image-resizing on upload
 
