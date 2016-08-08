@@ -2,7 +2,7 @@
 Flixter
 =======
 
-Flixter is 2-sided video streaming marketplace platform built using Ruby on Rails 4.0. The front-end is built with Twitter Bootstrap 3. Instructors can create courses with individual sections that students can subscribe to by making a credit card payment through Stripe's API.  Courses can be continuously updated and content is streamed through HTML5 and JavaScript.  Instructor views include a drag-and-drop sorting interface for re-ordering lessons and sections, powered by AJAX to sync with database.
+Flixter is a 2-sided video streaming marketplace platform built using Ruby on Rails 4.0. The front-end is built with Twitter Bootstrap 3. Instructors can create courses with individual sections that students can subscribe to by making a credit card payment through Stripe's API.  Courses can be continuously updated and content is streamed through HTML5 and JavaScript.  Instructor views include a drag-and-drop sorting interface for re-ordering lessons and sections, powered by AJAX to sync with database.
 
 Dependencies
 ============
